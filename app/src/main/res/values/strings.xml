@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProyectoEJTGenita212</string>
+    <string name="Imagen1">Pasatiempo</string>
+    <string name="Nombre">Eugenia Juárez Tolentino</string>
+    <string name="Grupo">7T11</string>
+    <string name="Carrera">Ing. en Tenconologías de la Información y Comunicaciones</string>
+    <string name="Menu">Menú Principal</string>
+    <string name="b1">Carrera</string>
+    <string name="b2">Música</string>
+    <string name="b3">Libros</string>
+    <string name="b4">Comida</string>
+    <string name="b5">Películas</string>
+    <string name="b6">Viajes</string>
+    <string name="b7">Series</string>
+    <string name="b8">Deporte</string>
+    <string name="CImagen">CarreraITIC</string>
+    <string name="menuprincipal">Menú Principal</string>
+    <string name="Musica">Música</string>
+    <string name="Imagen2">Musica</string>
+    <string name="Libro">Libros</string>
+    <string name="LImagen">libros</string>
+    <string name="COImagen">Comida</string>
+    <string name="Pelicula">Pelicula</string>
+    <string name="PImagen">Peliculas</string>
+    <string name="Viajes">Viajes</string>
+    <string name="VImagen">viajes</string>
+    <string name="Series">series</string>
+    <string name="SImagen">serie</string>
+    <string name="deporte">Deporte</string>
+    <string name="DImagen">deporte</string>
+</resources>
